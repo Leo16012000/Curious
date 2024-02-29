@@ -1,0 +1,1 @@
+**MACD** (Moving Average Convergence Divergence) là một chỉ báo theo xu hướng cho thấy mối quan hệ giữa hai đường trung bình động của giá. MACD được tính bằng cách trừ đường trung bình động hàm mũ (EMA) 26 ngày khỏi EMA 12 ngày. Đường tín hiệu, là [[EMA]] 9 ngày của MACD, cũng được vẽ trên biểu đồ MACD.
