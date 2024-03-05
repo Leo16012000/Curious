@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "21ef9ceb82baa66c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virtual Thread.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73ce147667185235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virtual Thread.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "c8585739bcd490b8",
@@ -68,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Attractive.md",
+                "file": "Virtual Thread.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attractive.md",
+                "file": "Virtual Thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attractive.md",
+                "file": "Virtual Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attractive.md"
+                "file": "Virtual Thread.md"
               }
             }
           }
@@ -224,10 +248,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44500d508caa430d",
+  "active": "73ce147667185235",
   "lastOpenFiles": [
-    "Stock/EMA.md",
+    "Pasted image 20240305112017.png",
+    "Pasted image 20240305112003.png",
+    "Pasted image 20240305111938.png",
+    "Thread Pool.md",
+    "Virtual Thread.md",
+    "Pasted image 20240305110207.png",
+    "Pasted image 20240305110146.png",
     "Attractive.md",
+    "Stock/EMA.md",
     "Only Interesting things",
     "Winvest Structure/EnterOrderVldFactory.md",
     "Winvest Structure/EnterOrderUIFactory.md",
@@ -255,16 +286,12 @@
     "Cache/Build data pipelines/Data pipeline.md",
     "Cache/Pasted image 20240229172640.png",
     "Cache/Pasted image 20240229172722.png",
-    "Cache/Assets/Pasted image 20240229172756.png",
     "Cache/Hazelcast IMDG/Data partitioning.md",
     "test/test.md",
     "test/Untitled.md",
     "test/Welcome.md",
     "test",
     "test.md",
-    "Hazelcast/Research.md",
-    "Hazelcast/Cache Strategy.md",
-    "Enter Order Flow.md",
     "Hazelcast",
     "Stock"
   ]
