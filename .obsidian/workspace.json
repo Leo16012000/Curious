@@ -44,23 +44,19 @@
             }
           },
           {
-            "id": "f29fc6739659b934",
+            "id": "44500d508caa430d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0b27ea227c89cf10",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Attractive.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "c8585739bcd490b8",
@@ -72,6 +68,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Attractive.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,6 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Attractive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Attractive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Attractive.md"
+              }
             }
           }
         ]
@@ -223,8 +224,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b27ea227c89cf10",
+  "active": "44500d508caa430d",
   "lastOpenFiles": [
+    "Stock/EMA.md",
+    "Attractive.md",
+    "Only Interesting things",
+    "Winvest Structure/EnterOrderVldFactory.md",
+    "Winvest Structure/EnterOrderUIFactory.md",
+    "Stock/MACD.md",
+    "Stock/SMA.md",
+    "Winvest Structure",
+    "AWS/Spot Instance.md",
+    "Design Pattern",
+    "AWS",
     "Devops/Welcome.md",
     "Cache/Assets/Pasted image 20240229172817.png",
     "Cache/Assets/Pasted image 20240229172734.png",
@@ -252,11 +264,7 @@
     "test.md",
     "Hazelcast/Research.md",
     "Hazelcast/Cache Strategy.md",
-    "Stock/MACD.md",
     "Enter Order Flow.md",
-    "Client Enquiry Flow.md",
-    "Stock/SMA.md",
-    "Stock/EMA.md",
     "Hazelcast",
     "Stock"
   ]
