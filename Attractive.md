@@ -5,3 +5,4 @@
 5. Visitor in PPL, when build Abstract Syntax Tree. Also using in Map, export a set of geometric shapes into XML
 6.  **A HashTable doesn't allow null keys or values; a HashMap does**
 7. Java 19 preview Virtual Thread, Java 21 [[Virtual Thread]]
+8. [[Thread]] CPU Thread vs OS Thread/Kernal Thread, User-Level Thread/Green Thread/ Lightweight Thread 
