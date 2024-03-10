@@ -6,6 +6,7 @@
       {
         "id": "89c547dde9eaf8fc",
         "type": "tabs",
+        "dimension": 38.96276595744681,
         "children": [
           {
             "id": "990912a5befd2d7b",
@@ -44,19 +45,28 @@
             }
           },
           {
-            "id": "f29fc6739659b934",
+            "id": "44500d508caa430d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Attractive.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "0b27ea227c89cf10",
+            "id": "21ef9ceb82baa66c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+<<<<<<< HEAD
+              "state": {
+                "file": "Cache/Hazelcast IMDG/Distributed data structures.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -65,6 +75,7 @@
       {
         "id": "c8585739bcd490b8",
         "type": "tabs",
+        "dimension": 61.037234042553195,
         "children": [
           {
             "id": "d9e7969ed03ffd30",
@@ -72,6 +83,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Cache/Hazelcast IMDG/Distributed data structures.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -94,13 +106,68 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.5,
                   "close": true
                 }
+=======
+              "state": {
+                "file": "Virtual Thread.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73ce147667185235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attractive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25e3d3990373fe81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attractive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5af6594dfebded0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Principle/Design principle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b3b625d0ebcc99c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/DE.md",
+                "mode": "source",
+                "source": false
+>>>>>>> b87588cbea78938492fe9433b9edff530fa460f2
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -166,6 +233,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+                "file": "Cache/Hazelcast IMDG/Distributed data structures.md",
+=======
+                "file": "Untitled/DE.md",
+>>>>>>> b87588cbea78938492fe9433b9edff530fa460f2
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +254,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+                "file": "Cache/Hazelcast IMDG/Distributed data structures.md",
+=======
+                "file": "Untitled/DE.md",
+>>>>>>> b87588cbea78938492fe9433b9edff530fa460f2
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +280,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+<<<<<<< HEAD
+                "file": "Cache/Hazelcast IMDG/Distributed data structures.md"
+=======
+                "file": "Untitled/DE.md"
+>>>>>>> b87588cbea78938492fe9433b9edff530fa460f2
+              }
             }
           }
         ]
@@ -223,8 +306,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b27ea227c89cf10",
+  "active": "8b3b625d0ebcc99c",
   "lastOpenFiles": [
+<<<<<<< HEAD
+    "Cache/Hazelcast IMDG/Data partitioning.md",
+=======
+    "Design Principle/Design principle.md",
+    "Untitled/DE.md",
+    "Untitled",
+    "Attractive.md",
+    "Thread.md",
+    "Design Principle",
+    "Pasted image 20240306092937.png",
+    "Virtual Thread.md",
+    "Thread Pool.md",
+    "Pasted image 20240305110146 1.png",
+    "Pasted image 20240305112017 1.png",
+    "Pasted image 20240305112003 1.png",
+    "Pasted image 20240305111938 1.png",
+    "Pasted image 20240305110207 1.png",
+    "Stock/EMA.md",
+    "Only Interesting things",
+    "Winvest Structure/EnterOrderVldFactory.md",
+    "Winvest Structure/EnterOrderUIFactory.md",
+    "Stock/MACD.md",
+    "Stock/SMA.md",
+    "Winvest Structure",
+    "AWS/Spot Instance.md",
+    "Design Pattern",
+    "AWS",
     "Devops/Welcome.md",
     "Cache/Assets/Pasted image 20240229172817.png",
     "Cache/Assets/Pasted image 20240229172734.png",
@@ -232,31 +342,44 @@
     "Cache/Hazelcast IMDG/Write Behind.md",
     "Cache/Hazelcast IMDG/Why Hazelcast.md",
     "Cache/Hazelcast IMDG/Special things.md",
+>>>>>>> b87588cbea78938492fe9433b9edff530fa460f2
     "Cache/Hazelcast IMDG/Read Through + Write Thorugh.md",
-    "Cache/Hazelcast IMDG/Distributed data structures.md",
-    "Cache/Hazelcast IMDG/Client-Server.md",
+    "Cache/Hazelcast IMDG/Special things.md",
     "Cache/Hazelcast IMDG/Cache Strategy.md",
     "Cache/Hazelcast IMDG/Application.md",
-    "Cache/Build data pipelines/Pasted image 20240229171520.png",
-    "Cache/Build data pipelines/Pasted image 20240229162453.png",
-    "Cache/Build data pipelines/Debezium.md",
+    "Stock/MACD.md",
+    "Stock/EMA.md",
+    "Stock/SMA.md",
+    "Cache/Hazelcast IMDG/Distributed data structures.md",
+    "Cache/Hazelcast IMDG/Client-Server.md",
+    "Cache/Hazelcast IMDG/Write Behind.md",
+    "Cache/Hazelcast IMDG/Why Hazelcast.md",
     "Cache/Build data pipelines/Data pipeline.md",
+<<<<<<< HEAD
+    "Cache/Build data pipelines/Debezium.md",
+    "Cache/Build data pipelines/Pasted image 20240229162453.png",
+    "Cache/Assets/Pasted image 20240229172734.png",
+    "Devops/Welcome.md",
+    "Cache/Assets/Pasted image 20240229172817.png",
+    "Cache/Assets",
+    "Cache/Build data pipelines/Pasted image 20240229171520.png",
     "Cache/Pasted image 20240229172640.png",
     "Cache/Pasted image 20240229172722.png",
     "Cache/Assets/Pasted image 20240229172756.png",
+=======
     "Cache/Hazelcast IMDG/Data partitioning.md",
+>>>>>>> b87588cbea78938492fe9433b9edff530fa460f2
     "test/test.md",
     "test/Untitled.md",
-    "test/Welcome.md",
     "test",
+<<<<<<< HEAD
     "test.md",
     "Hazelcast/Research.md",
     "Hazelcast/Cache Strategy.md",
-    "Stock/MACD.md",
     "Enter Order Flow.md",
     "Client Enquiry Flow.md",
-    "Stock/SMA.md",
-    "Stock/EMA.md",
+=======
+>>>>>>> b87588cbea78938492fe9433b9edff530fa460f2
     "Hazelcast",
     "Stock"
   ]
